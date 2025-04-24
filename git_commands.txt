@@ -1,0 +1,4 @@
+git init -->initializing the repo
+git status  ---> to know the status of the repo
+>git remote add origin <https://github.com/swathinari/Java-learning>  -> to add the remote origin
+>git push -u  origin master -->
