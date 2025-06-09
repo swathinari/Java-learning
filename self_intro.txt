@@ -1,6 +1,1 @@
-Hi 
-thanks for giving this opportunity to introduce myself. i am swathi from hyderabad. i've completed my graduation from JNTUH universsity in Computer science and engineering pass out year 2020. in my final year i was so fasionate about programming lanagueage then i trained my self on core java then got placanded in capgemini in 2020.
- in capgemini also i've undergone the fullstack training devleped the one stand alone application. i have strong knowlege on java and springboot.
-i got assigned to database project where we used to maintain the data and handled the customers issues and provided the fix through pipelines(devops tools)
-then after 1 year my manager suggested a java based project. it was 5 membered group project and there we handled the task about spring-boot-version related task and delivered thefix through automated ci/cd.
- 
+Swathi
